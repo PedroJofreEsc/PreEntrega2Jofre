@@ -1,0 +1,12 @@
+.cartQty {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    color: azure;
+    background-color: black;
+    border-radius: 50%;
+    font-size: 12px;
+    position: absolute;
+    text-align: center;
+    line-height: 17px;
+}
