@@ -18,7 +18,6 @@ const ItemCount = ({ stock, onAdd }) => {
         }
     }
 
-
     return (
         <div>
 
